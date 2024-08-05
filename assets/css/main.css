@@ -2624,6 +2624,7 @@ input, select, textarea {
 				border: 0;
 				padding: 0;
 				margin: 1em 0 0 0;
+				visibility:hidden;
 			}
 
 				#footer .copyright li:first-child {
