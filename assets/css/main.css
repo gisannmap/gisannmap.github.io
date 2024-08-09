@@ -2619,7 +2619,7 @@ input, select, textarea {
 		/* Footer */
 
 			#footer .copyright li {
-				display: block;
+				display: inline;
 				line-height: 0cm;
 				border: 0;
 				padding: 0;
