@@ -1,0 +1,22 @@
+---
+title: "Projects Undertaken"
+format: html
+---
+
+
+
+### ️ Kerala Landslide & Rainfall Trends Visualization (2023-24)
+
+-   Developed an **interactive map** of Kerala using Python’s **Folium**.
+-   Integrated **GeoJSON** for district boundaries.
+-   Used **Matplotlib** to visualize rainfall trends and landslide severity.
+
+### ️ Land Use Change Detection – Norcia, Italy (2023-24)
+
+-   Analyzed **pre- and post-earthquake land patterns** (2016 Italy earthquake).
+-   Used **remote sensing & GIS techniques** for land-use classification.
+
+###  Human-Elephant Conflict & Forest Fire Risk Assessment (2022)
+
+-   Applied **Frequency Ratio & Weighted Overlay GIS modeling**.
+-   Studied **vulnerability patterns** in **Muthanga Wildlife Range, Kerala**.

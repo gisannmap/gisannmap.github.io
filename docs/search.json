@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ann_Quarto_Webpage",
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Projects Undertaken",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "️ Kerala Landslide & Rainfall Trends Visualization (2023-24)\n\nDeveloped an interactive map of Kerala using Python’s Folium.\nIntegrated GeoJSON for district boundaries.\nUsed Matplotlib to visualize rainfall trends and landslide severity.\n\n\n\n️ Land Use Change Detection – Norcia, Italy (2023-24)\n\nAnalyzed pre- and post-earthquake land patterns (2016 Italy earthquake).\nUsed remote sensing & GIS techniques for land-use classification.\n\n\n\nHuman-Elephant Conflict & Forest Fire Risk Assessment (2022)\n\nApplied Frequency Ratio & Weighted Overlay GIS modeling.\nStudied vulnerability patterns in Muthanga Wildlife Range, Kerala."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "As a GIS scholar, currently I am pursuing my Master of Science in GIS at the University of Texas at Dallas, where I am deepening my expertise in geospatial modeling, data visualization, and AI-driven GIS solutions.\nPrior to this, I completed a Post Graduate Diploma in GIS from IUCGIST, India, where I gained expertise in spatial modeling, remote sensing, and GIS programming. My academic foundation includes a Master’s and Bachelor’s degree in Physics from the University of Kerala, which helped me develop strong analytical and computational skills, now applied in my geospatial research."
+  },
+  {
+    "objectID": "about.html#my-interests-expertise",
+    "href": "about.html#my-interests-expertise",
+    "title": "About Me",
+    "section": "My Interests & Expertise",
+    "text": "My Interests & Expertise\nI am particularly interested in how GIS, Python, and machine learning can be used to: - Analyze environmental changes (land use, climate impact, and disaster risk assessment). - Develop interactive spatial visualizations for real-world geospatial problems. - Apply machine learning to GIS for predictive analytics and classification.\nMy academic and professional journey has allowed me to work on several impactful projects, integrating Python, remote sensing techniques, and statistical modeling to generate actionable insights from geospatial data."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My GIS Website",
+    "section": "",
+    "text": "Welcome to my personal website! I am Ann Nibana S L, GIS & Remote Sensing Scholar building expertise in python programming, spatial analysis, and geospatial modeling. This website showcases my interest in GIS, AI-driven geospatial applications and the works I have carried out so far related to this field.\n\nGet in Touch\nLocation: Irving, Texas\nEmail: annnibana@gmail.com\nPhone: (+1) 945-267-7929\nDownload My CV"
   }
 ]

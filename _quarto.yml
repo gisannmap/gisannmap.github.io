@@ -3,12 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Ann_Quarto_Webpage"
+  title: "Ann Nibana S L"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: project.qmd
+        text: Project
+      - href: CV_Ann.pdf
+        text: CV
+      - text: Assignments
+        menu:
+          - href: files/assignments/Ann_Assignment1.pdf
+            text: Assignment 1 (PDF)
 
 format:
   html:
