@@ -2,7 +2,7 @@
 title: "My GIS Website"
 ---
 
-Welcome to my personal website! I am ***Ann Nibana S L***, GIS & Remote Sensing Scholar building expertise in python programming, spatial analysis, and geospatial modeling. This website showcases my interest in GIS, AI-driven geospatial applications and the works I have carried out so far related to this field.
+Welcome to my personal website! I am ***Ann Nibana S L***, GIS & Remote Sensing Scholar building expertise in python programming, spatial analysis and geospatial modeling. This website showcases my interest in GIS, AI-driven geospatial applications and the works I have carried out so far related to this field.
 ---
 ***Get in Touch***
 

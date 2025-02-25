@@ -18,6 +18,8 @@ website:
         menu:
           - href: files/assignments/Ann_Assignment1.pdf
             text: Assignment 1 (PDF)
+          - href: files/assignments/Ann_Assignment2.pdf
+            text: Assignment 2 (PDF) # Opens a Page with PDFs
 
 format:
   html:
