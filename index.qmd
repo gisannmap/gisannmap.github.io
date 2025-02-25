@@ -2,14 +2,14 @@
 title: "My GIS Website"
 ---
 
+![](profilepic2.png)
+
 Welcome to my personal website! I am ***Ann Nibana S L***, GIS & Remote Sensing Scholar building expertise in python programming, spatial analysis and geospatial modeling. This website showcases my interest in GIS, AI-driven geospatial applications and the works I have carried out so far related to this field.
----
+
 ***Get in Touch***
 
 *Location:* Irving, Texas\
 *Email:* annnibana\@gmail.com\
 *Phone:* (+1) 945-267-7929
 
-**[Download My CV](CV_Ann.pdf)**
-
-
+[**Download My CV**](CV_Ann.pdf)
