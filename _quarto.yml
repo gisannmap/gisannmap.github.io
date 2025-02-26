@@ -20,6 +20,8 @@ website:
             text: Assignment 1 (PDF)
           - href: files/assignments/Ann_Assignment2.pdf
             text: Assignment 2 (PDF) # Opens a Page with PDFs
+          - href: files/assignments/AI_n_Research_PPT.pdf
+            text: PPT  (PDF) 
 
 format:
   html:
