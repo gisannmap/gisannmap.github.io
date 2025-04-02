@@ -22,6 +22,10 @@ website:
             text: Assignment 2 (PDF) # Opens a Page with PDFs
           - href: files/assignments/AI_PPT.pdf
             text: PPT  (PDF) 
+          - href: files/assignments/Ann_Assignment3.pdf
+            text: Assignment 3  (PDF) 
+          - href: files/assignments/Ann_Assignment4.pdf
+            text: Assignment 4  (PDF) 
 
 format:
   html:
