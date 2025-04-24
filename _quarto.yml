@@ -26,8 +26,8 @@ website:
             text: Assignment 3  (PDF) 
           - href: files/assignments/Ann_Assignment4.pdf
             text: Assignment 4  (PDF) 
-          - href: files/assignments/Ann_Assignment5.pdf
-            text: Assignment 5  (PDF) 
+          - href: files/assignments/object_detection.pdf
+            text: Project_Updation_PPT  (PDF) 
 
 format:
   html:
