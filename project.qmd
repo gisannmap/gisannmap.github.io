@@ -14,9 +14,9 @@ format: html
 
 -   The trained model accurately detects objects in test images and the outputs are visualized through     an interactive Python-based interface.
   
-    [View  Project presentation](docs/files/assignments/object_detection_ppt2.pdf)
+    [View  Project presentation](files/assignments/object_detection_ppt2.pdf)
   
-    [View Full Project Report](docs/files/assignments/Ann_EPPS6323_Project.pdf)
+    [View Full Project Report](files/assignments/Ann_EPPS6323_Project.pdf)
 
 ### Kerala Landslide & Rainfall Trends Visualization (2023-24)
 
