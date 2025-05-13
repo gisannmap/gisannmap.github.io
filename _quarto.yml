@@ -28,6 +28,10 @@ website:
             text: Assignment 4  (PDF) 
           - href: files/assignments/object_detection.pdf
             text: Project_Updation_PPT  (PDF) 
+          - href: files/assignments/object_detection_ppt2.pdf
+            text: Project_Updation_PPT2  (PDF)
+          - href: files/assignments/Ann_EPPS6323_Project.pdf
+            text: Final_Project  (PDF)
 
 format:
   html:
