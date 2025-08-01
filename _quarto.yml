@@ -8,11 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: project.qmd
+        text: Projects
       - href: about.qmd
         text: About
-      - href: project.qmd
-        text: Project
-      - href: CV_Ann.pdf
+      - href: Ann_CV.pdf
         text: CV
       - text: Documentations
         menu:
