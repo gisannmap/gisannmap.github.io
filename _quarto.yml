@@ -14,24 +14,20 @@ website:
         text: Project
       - href: CV_Ann.pdf
         text: CV
-      - text: Assignments
+      - text: Documentations
         menu:
-          - href: files/assignments/Ann_Assignment1.pdf
-            text: Assignment 1 (PDF)
-          - href: files/assignments/Ann_Assignment2.pdf
-            text: Assignment 2 (PDF) # Opens a Page with PDFs
-          - href: files/assignments/AI_PPT.pdf
-            text: PPT  (PDF) 
-          - href: files/assignments/Ann_Assignment3.pdf
-            text: Assignment 3  (PDF) 
-          - href: files/assignments/Ann_Assignment4.pdf
-            text: Assignment 4  (PDF) 
-          - href: files/assignments/object_detection.pdf
-            text: Project_Updation_PPT  (PDF) 
-          - href: files/assignments/object_detection_ppt2.pdf
-            text: Project_Updation_PPT2  (PDF)
-          - href: files/assignments/Ann_EPPS6323_Project.pdf
-            text: Final_Project  (PDF)
+          - href: files/assignments/landslide_code.html
+            text: landslide_code 
+          - href: files/assignments/landslidmap.html
+            text: Landslide Map
+          - href: files/assignments/LanduseNorciappt.pdf
+            text: Landuse_Norcia  (PDF) 
+          - href: files/assignments/HECPPT.pdf
+            text: HECPPT (PDF) 
+          - href: files/assignments/YOLOPPT.pdf
+            text: YOLOPPT  (PDF)
+          - href: files/assignments/yoloprojectreport.pdf
+            text: YOLO Report  (PDF)
 
 format:
   html:

@@ -3,33 +3,29 @@ title: "Projects Undertaken"
 format: html
 ---
 
+### Object detection using DOTA dataset and training using YOLOV8
 
-### Object detection using DOTA dataset and training using YOLOV8 (2025) 
-  
--   Detect objects such as airplanes in aerial images using the **DOTA dataset** and the **YOLOv8s**      model.
+-   Detect objects such as airplanes in aerial images using the **DOTA dataset** and the **YOLOv8** model.
+-   A subset of the DOTA dataset was selected and converted from oriented bounding box (OBB) format to COCO format for compatibility with YOLOv8.
+-   The YOLOv8 model was trained on the prepared dataset using preprocessing, data augmentation, and validation steps to improve detection performance.
+-   The trained model accurately detects objects in test images and the outputs are visualized through an interactive Python-based interface. [View Project presentation] (files/assignments/YOLOPPT.pdf) | [View Project Report] (files/assignments/yoloprojectreport.pdf)
 
--   A subset of the DOTA dataset was selected and converted from oriented bounding box (OBB) format to     COCO format for compatibility with YOLOv8.
-
--   The YOLOv8 model was trained on the prepared dataset using preprocessing, data augmentation, and      validation steps to improve detection performance.
-
--   The trained model accurately detects objects in test images and the outputs are visualized through     an interactive Python-based interface.
-  
-    [View  Project presentation](files/assignments/object_detection_ppt2.pdf)
-  
-    [View Full Project Report](files/assignments/Ann_EPPS6323_Project.pdf)
-
-### Kerala Landslide & Rainfall Trends Visualization (2023-24)
-
--   Developed an **interactive map** of Kerala using Python’s **Folium**.
--   Integrated **GeoJSON** for district boundaries.
--   Used **Matplotlib** to visualize rainfall trends and landslide severity.
-
-### ️ Land Use Change Detection – Norcia, Italy (2023-24)
-
--   Analyzed **pre- and post-earthquake land patterns** (2016 Italy earthquake).
--   Used **remote sensing & GIS techniques** for land-use classification.
-
-### Human-Elephant Conflict & Forest Fire Risk Assessment (2022)
+### Human-Elephant Conflict & Forest Fire Risk Assessment
 
 -   Applied **Frequency Ratio & Weighted Overlay GIS modeling**.
--   Studied **vulnerability patterns** in **Muthanga Wildlife Range, Kerala**.
+
+-   Studied vulnerability patterns in Muthanga Wildlife Range, Kerala.[View HEC document](files/assignments/HECPPT.pdf)
+
+### Kerala Landslide & Rainfall Trends Visualization
+
+-   Developed an **interactive map** of Kerala using Python’s **Folium**.[View interactive map](files/assignments/Landslidemap.html)
+
+-   Integrated GeoJSON for district boundaries.
+
+-   Used **Matplotlib** to visualize rainfall trends and landslide severity.
+
+### ️ Land Use Change Detection – Norcia, Italy
+
+-   Analyzed **pre- and post-earthquake land patterns** (2016 Italy earthquake). [View document](files/assignments/LanduseNorciappt.pdf)
+
+-   Used remote sensing & GIS techniques for land-use classification.
