@@ -5,7 +5,7 @@ format: html
 
 #### Object detection using DOTA dataset and training using YOLOV8
 
-[View Document](files/assignments/YOLOPPT.pdf) \| [View Project Report](files/assignments/yoloprojectreport.pdf)
+[View Document] (files/assignments/yolosummary.html) | [View PPT](files/assignments/YOLOPPT.pdf)
 
 -   Detect objects such as airplanes in aerial images using the **DOTA dataset** and the **YOLOv8s** model.
 -   A DOTA sub dataset selected converted from oriented bounding box (OBB) format to COCO format for compatibility with YOLOv8.
