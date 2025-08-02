@@ -5,31 +5,31 @@ format: html
 
 #### Object detection using DOTA dataset and training using YOLOV8
 
-[View Document] (files/assignments/yolosummary.html) | [View PPT](files/assignments/YOLOPPT.pdf)
+[View Document](files/assignments/yolosummary.html) | [View PPT](files/assignments/YOLOPPT.pdf)
 
--   Detect objects such as airplanes in aerial images using the **DOTA dataset** and the **YOLOv8s** model.
--   A DOTA sub dataset selected converted from oriented bounding box (OBB) format to COCO format for compatibility with YOLOv8.
--   The YOLOv8 model trained on prepared dataset, preprocessed and added validation steps to improve detection performance.
--   The trained model detects objects in test images and the outputs visualized through an interactive Python-based interface.
+- Detect objects such as airplanes in aerial images using the **DOTA dataset** and the **YOLOv8s** model.
+- A DOTA sub dataset selected converted from oriented bounding box (OBB) format to COCO format for compatibility with YOLOv8.
+- The YOLOv8 model trained on prepared dataset, preprocessed and added validation steps to improve detection performance.
+- The trained model detects objects in test images and the outputs visualized through an interactive Python-based interface.
 
 #### Human-Elephant Conflict & Forest Fire Risk Assessment
 
 [View document](files/assignments/HECPPT.pdf)
 
--   Applied **Frequency Ratio & Weighted Overlay GIS modeling**.
--   Studied vulnerability patterns in Muthanga Wildlife Range, Kerala.
+- Applied **Frequency Ratio & Weighted Overlay GIS modeling**.
+- Studied vulnerability patterns in Muthanga Wildlife Range, Kerala.
 
 #### Kerala Landslide & Rainfall Trends Visualization
 
 [View interactive map](files/assignments/Landslidemap.html) \| [View code](files/assignments/landslide_code.html)
 
--   Developed an **interactive map** of Kerala using Python’s **Folium**.
--   Integrated GeoJSON for district boundaries.
--   Used **Matplotlib** to visualize rainfall trends and landslide severity.
+- Developed an **interactive map** of Kerala using Python’s **Folium**.
+- Integrated GeoJSON for district boundaries.
+- Used **Matplotlib** to visualize rainfall trends and landslide severity.
 
 #### Land Use Change Detection – Norcia, Italy
 
 [View document](files/assignments/LanduseNorciappt.pdf)
 
--   Analyzed **pre- and post-earthquake land patterns** (2016 Italy earthquake).
--   Used remote sensing & GIS techniques for land-use classification.
+- Analyzed **pre- and post-earthquake land patterns** (2016 Italy earthquake).
+- Used remote sensing & GIS techniques for land-use classification.

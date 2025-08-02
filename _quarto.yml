@@ -12,7 +12,7 @@ website:
         text: Projects
       - href: about.qmd
         text: About
-      - href: Ann_CV.pdf
+      - href: Ann_resume.pdf
         text: CV
       - text: Documentations
         menu:
@@ -28,7 +28,8 @@ website:
             text: YOLOPPT  (PDF)
           - href: files/assignments/yoloprojectreport.pdf
             text: YOLO Report  (PDF)
-
+          - href: files/assignments/yolosummary.html
+            text: Yolo Project summary
 format:
   html:
     theme:
@@ -39,3 +40,5 @@ format:
 
 editor: visual
 
+
+  
